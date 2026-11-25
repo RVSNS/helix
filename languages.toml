@@ -1,0 +1,3 @@
+# Per-language overrides. Helix ships sensible defaults for most
+# language servers and formatters; only add entries here when you
+# need to deviate from them.
